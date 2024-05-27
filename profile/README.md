@@ -13,11 +13,7 @@ pay for more valuable goods at a legitimate terminal or towithdraw a large sum o
 
 ## Content
 This project constains two repositories: 
-- `pure-poc`: contains the proof-of-concept code which can be run on android phones equipped with UWB boards.
-- `pure-sec-rel`: contains the analysis of the proposed protocol in terms of reliability and security.
+- [pure-poc](https://github.com/pure-uwb/pure-poc): contains the proof-of-concept code which can be run on android phones equipped with UWB boards.
+- [pure-sec-rel](https://github.com/pure-uwb/pure-sec-rel): contains the analysis of the proposed protocol in terms of reliability and security.
 
-## Usage
-
-Use the `pure-poc` repository to run a mock UWB protected transaction.
-Use the `pure-sec-rel` repository to analyze the collected data.
 Follow the README in the respective repositories for further details.
