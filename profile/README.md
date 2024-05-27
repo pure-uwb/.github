@@ -17,5 +17,6 @@ Our work prevents relay attacks by integrating a secure ranging scheme in the  M
 This project contains two repositories: 
 - [pure-poc](https://github.com/pure-uwb/pure-poc): contains the proof-of-concept code which can be run on android phones equipped with UWB boards.
 - [pure-sec-rel](https://github.com/pure-uwb/pure-sec-rel): contains the analysis of the proposed protocol in terms of reliability and security.
-
+- [pure-models](https://github.com/pure-uwb/pure-sec-rel): contains the Tamarin models used to formally prove the security of the proposed EMV extension.
+  
 Follow the README in the respective repositories for further details.
